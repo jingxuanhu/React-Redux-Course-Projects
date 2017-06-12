@@ -1,0 +1,9 @@
+form a {
+  margin-left: 5px;
+}
+.has-danger .text-help {
+  color: #d9534f;
+}
+.list-group-item {
+  display: block;
+}
